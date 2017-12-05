@@ -1,4 +1,4 @@
-# Applied-Tensorflow
+# Applied Tensorflow Tutorials
 
 Author: Umberto Michelucci (um@udata.science)
 Web: https://udata.science
